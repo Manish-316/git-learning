@@ -7,3 +7,5 @@ const fotter="Add fotter";
 console.log(fotter);
 const upi="upi payment is added";
 console.log(upi);
+const rozerpay="Rozerpay added";
+console.log(rozerpay);
