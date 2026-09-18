@@ -9,3 +9,8 @@ const upi="upi payment is added";
 console.log(upi);
 const rozerpay="Rozerpay added";
 console.log(rozerpay);
+
+function add(a,b){
+    return a+b;
+}
+add(5,4);
