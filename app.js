@@ -14,3 +14,8 @@ function add(a,b){
     return a+b;
 }
 add(5,4);
+
+function sub(a,b){
+    return a-b;
+}
+sub(5,4);
